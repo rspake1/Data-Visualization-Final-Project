@@ -1,2 +1,18 @@
 # Data-Visualization-Final-Project
-short 
+short repository for our final project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+short
